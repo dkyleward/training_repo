@@ -5,3 +5,5 @@ This is a test
 # Chapter 1
 
 Added this line using GitHub.
+
+More chapter 1 text.
