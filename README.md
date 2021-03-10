@@ -7,3 +7,7 @@ This is a test
 Added this line using GitHub.
 
 More chapter 1 text.
+
+# Chapter 2
+
+More text.
